@@ -13,7 +13,7 @@
     "node-sass": "^4.14.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "^3.4.3",
+    "react-scripts": "^5.0.1",
     "react-toastify": "^5.4.1",
     "trunx": "^0.25.2",
     "typescript": "^3.7.3",
